@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# credit to https://n.ethz.ch/~dbernhard/disable-led-on-a-raspberry-pi.html which showed me how to toggle the LEDs
 toggle=0
 if [ $1 = 'off' ]
 then
